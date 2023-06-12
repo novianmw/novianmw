@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![EeQL](https://github.com/novianmw/novianmw/assets/114653877/31587f05-3ffd-49c3-98d8-356b52a891d5)
+
 <!--
 **novianmw/novianmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
