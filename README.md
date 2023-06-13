@@ -1,11 +1,6 @@
 ![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)
-![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)
 ![ezgif com-resize (2)](https://github.com/novianmw/novianmw/assets/114653877/47dd3e72-9607-46bc-ab82-48e85672d3bf)
 ![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)
-![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)
-
-
-
 
 ![coder](https://github.com/novianmw/novianmw/assets/114653877/febdd9e0-cd2b-4148-8c7c-7facb07f8aa3)
 
