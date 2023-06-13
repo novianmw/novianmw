@@ -1,6 +1,6 @@
-![141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b](https://github.com/novianmw/novianmw/assets/114653877/4fe93fc4-19b5-4459-91a4-969aa783fb67)![141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b](https://github.com/novianmw/novianmw/assets/114653877/4fe93fc4-19b5-4459-91a4-969aa783fb67)
+![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)![line](https://github.com/novianmw/novianmw/assets/114653877/8d19599d-a362-48cb-abf3-c26d5b21cb5d)
 ![coder](https://github.com/novianmw/novianmw/assets/114653877/febdd9e0-cd2b-4148-8c7c-7facb07f8aa3)
-![141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b](https://github.com/novianmw/novianmw/assets/114653877/4fe93fc4-19b5-4459-91a4-969aa783fb67)![141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b](https://github.com/novianmw/novianmw/assets/114653877/4fe93fc4-19b5-4459-91a4-969aa783fb67)
+
 
 
 
@@ -23,7 +23,10 @@
   <li>Nextjs</li>
 </ul>
 
-![VeC](https://github.com/novianmw/novianmw/assets/114653877/cc537faf-4d82-41f7-9fa4-f12e03a90554)![thank you](https://github.com/novianmw/novianmw/assets/114653877/c2c5ee93-717b-452f-9ecb-ba77b9086b04)![ezgif com-rotate](https://github.com/novianmw/novianmw/assets/114653877/5d08e27d-2291-4a7a-a251-295018f9e440)
+
+<div>![VeC](https://github.com/novianmw/novianmw/assets/114653877/cc537faf-4d82-41f7-9fa4-f12e03a90554)</div>
+
+![thank you](https://github.com/novianmw/novianmw/assets/114653877/c2c5ee93-717b-452f-9ecb-ba77b9086b04)![ezgif com-rotate](https://github.com/novianmw/novianmw/assets/114653877/5d08e27d-2291-4a7a-a251-295018f9e440)
 <!--
 **novianmw/novianmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
